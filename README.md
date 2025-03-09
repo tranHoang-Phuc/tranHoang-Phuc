@@ -28,9 +28,9 @@
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![tranHoang-Phuc's Stats](https://github-readme-stats.vercel.app/api?username=tranHoang-Phuc&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&token=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)
-![tranHoang-Phuc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tranHoang-Phuc&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&token=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)
-![tranHoang-Phuc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tranHoang-Phuc&theme=vue-dark&hide_border=true&token=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)
+![tranHoang-Phuc's Stats](https://github-readme-stats.vercel.app/api?username=tranHoang-Phuc&cache_seconds=60&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&token=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)
+![tranHoang-Phuc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tranHoang-Phuc&cache_seconds=60&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&token=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)
+![tranHoang-Phuc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tranHoang-Phuc&cache_seconds=60&theme=vue-dark&hide_border=true&token=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)
 
 <!--START_SECTION:waka-->
 
