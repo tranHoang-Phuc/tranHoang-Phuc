@@ -6,7 +6,6 @@
 - 🏦 I'm a Fullstack Developer working for an Outsource Company in the Banking and Insurance domain in Vietnam.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **.java**, **.jsx**, **.tsx**, **.css**, **cs**, **.sql**
-- 📖 I am studying at FPT University
 - 👯 We can connect to play some games of Chess ♟
 - 🧑‍💻 Tech I work on :
 
