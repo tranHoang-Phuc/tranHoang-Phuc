@@ -38,9 +38,9 @@
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/tranHoang-Phuc?cardType=github&theme=dark&preferLogin=false&Ring=DDB023&Text=DDB023&Border=00000000&Title=DDB023)](https://git.io/awesome-stats-card)
-![tranHoang-Phuc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tranHoang-Phuc&theme=dark&show_icons=true&hide_border=true&layout=compact)
-<!--START_SECTION:waka-->
+![tranHoang-Phuc's Stats](https://github-readme-stats.vercel.app/api?username=tranHoang-Phuc&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
+![tranHoang-Phuc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tranHoang-Phuc&theme=vision-friendly-dark&hide_border=true)
+![tranHoang-Phuc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tranHoang-Phuc&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)<!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
