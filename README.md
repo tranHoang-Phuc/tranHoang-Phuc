@@ -42,7 +42,6 @@
 ![tranHoang-Phuc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tranHoang-Phuc&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)<!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tranHoang-Phuc&theme=dark" alt="GitHub Streak" /></a>
 
 
 ---
