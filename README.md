@@ -42,7 +42,7 @@
 ![tranHoang-Phuc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tranHoang-Phuc&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)<!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&preferLogin=false&Ring=DDC532">    <img  alt="tranHoang-Phuc's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/tranHoang-Phuc?cardType=github&theme=dark&preferLogin=false&Ring=DDC532" />  </a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tranHoang-Phuc&theme=dark" alt="GitHub Streak" /></a>
 
 
 ---
