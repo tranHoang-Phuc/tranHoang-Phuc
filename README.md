@@ -6,11 +6,6 @@ Welcome to my GitHub profile repository. I’m a backend developer specializing 
 * ✉️  You can contact me at [phucth115.dev@gmail.com](mailto:phucth115.dev@gmail.com)
 * 🧠 Studying system design & cloud architecture toward a **Solutions Architect** role.
 
-## About me
-
-- Primary focus: Backend development (Java, Spring, SQL, Kafka, Docker)
-- Daily languages / tools: Java, JavaScript/TypeScript, C#, SQL, Docker
-- Interests: distributed systems, APIs, observability, developer tooling
 
 ## Tech & Tools
 
