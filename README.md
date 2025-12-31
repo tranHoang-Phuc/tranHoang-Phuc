@@ -23,12 +23,3 @@ Below are some of the technologies I use regularly.
 [![Observability](https://skillicons.dev/icons?i=grafana,prometheus)](https://skillicons.dev)  
 [![OS & Tools](https://skillicons.dev/icons?i=linux,ubuntu,postman,vim)](https://skillicons.dev)
 
-## GitHub Stats
-
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=tranHoang-Phuc&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranHoang-Phuc&theme=nord&show_icons=true&hide_border=true&layout=compact" alt="top languages" />
-</p>
-
-
-
